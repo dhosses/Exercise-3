@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This Program Will ask For Your Age And Current GPA and Prints them the the screen.\n");
+            Console.WriteLine("This PartB Will ask For Your Age And Current GPA and Prints them the the screen.\n");
             Thread.Sleep(1000);
 
             Console.WriteLine("Please Enter Your Age: ");
