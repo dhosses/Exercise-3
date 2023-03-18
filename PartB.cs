@@ -18,3 +18,4 @@ class PartB
         Console.WriteLine("The area of the triangle is: " + area);
     }
 }
+ 
